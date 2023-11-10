@@ -25,6 +25,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "30a6feb3-7a8c-4f9a-b29d-a049c58bc065"
+      }
+    },
+    "owner": "josek90",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/30a6feb3-7a8c-4f9a-b29d-a049c58bc065"
     }
   }
 }
